@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TVMaze</string>
+    <string name="nazad">Nazad</string>
+    <string name="name">Name</string>
+    <string name="language">language</string>
+    <string name="genres">genres</string>
+    <string name="REST_API"> https://api.tvmaze.com/shows</string>
+</resources>
